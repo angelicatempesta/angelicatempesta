@@ -7,7 +7,7 @@
 <p align="center"> 
   <samp>
  <br>
-    「 I am a Java Back-End Developer <b>Student</b> 」
+    「 I am a Java Back-End <b>Student</b> 」
     <br>
     <br>
   </samp>
@@ -33,13 +33,17 @@
  ❤️ &emsp; Love to write code and learn new features! <br/><br/>
  📧 &emsp; Reach me : angelica.tempesta96@gmail.com<br/><br/>
  💬 &emsp; Ask me anything [here](https://github.com/angelicatempesta/angelicatempesta/pulls)
-  </samp>
+  </samp>     
 </div>
 </p>
 <br/>
 <br/>
 <br/>
+<div>
+<code><img align="center" width="700" src="https://i.postimg.cc/KvfP8cMp/bbbbb.png"></></code>
+        </div>
 <hr>
+ 
 
 <div align="center">
 <h3>:wrench:Languages and Tools</h3>
