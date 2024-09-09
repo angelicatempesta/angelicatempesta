@@ -7,7 +7,7 @@
 <p align="center"> 
   <samp>
  <br>
-    「 I am a Java Back-End <b>Student</b> 」
+    「 I am a Java Back-End <b>Developer</b> who's enjoying others programming languages! 」
     <br>
     <br>
   </samp>
